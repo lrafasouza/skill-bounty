@@ -1,0 +1,3 @@
+[submodule "sign-safe-skill"]
+	path = sign-safe-skill
+	url = https://github.com/lrafasouza/sign-safe-skill
